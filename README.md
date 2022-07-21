@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yomabd
 - 👀 I’m into web development and data analytics
 - 🌱 I automate boring tasks with python 
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I look forward to collaborating on web development 
 
 
 <!---
