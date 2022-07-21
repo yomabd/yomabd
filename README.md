@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yomabd
-- 👀 I’m interested in web development and data analytics
-- 🌱 I’m currently learning web development and Python 
+- 👀 I’m into web development and data analytics
+- 🌱 I automate boring tasks with python 
 - 💞️ I’m looking to collaborate on web development 
 
 
